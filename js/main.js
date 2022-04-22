@@ -14,5 +14,5 @@ function calcular() {
     }
 
     var parrafo = document.getElementById('resultado')
-    parrafo.innerHTML = resultado
+    parrafo.innerHTML = "El resultado es " + resultado
 }
